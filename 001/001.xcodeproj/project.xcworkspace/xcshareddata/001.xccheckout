@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A34B435-BF4C-4863-929A-320C49745516</string>
+	<key>IDESourceControlProjectName</key>
+	<string>001</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8DDB70E3-F4F8-4747-AE97-3F71892D42E3</key>
+		<string>https://github.com/cocosyuan/yuan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>001/001.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8DDB70E3-F4F8-4747-AE97-3F71892D42E3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cocosyuan/yuan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8DDB70E3-F4F8-4747-AE97-3F71892D42E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8DDB70E3-F4F8-4747-AE97-3F71892D42E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yuan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
