@@ -17,6 +17,7 @@ int main(int argc, const char * argv[])
     c[3].setCircle(1.0, 0.0, 27.0);
     
     cout<<c[1].distance(c[2])<<endl;
+    cout<<c[1].distance(c[2])<<endl;
     
     return 0;
 }
